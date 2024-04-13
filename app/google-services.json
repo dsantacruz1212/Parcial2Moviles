@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "442734158080",
+    "firebase_url": "https://parcial2-fe7bb-default-rtdb.firebaseio.com",
+    "project_id": "parcial2-fe7bb",
+    "storage_bucket": "parcial2-fe7bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442734158080:android:29c95caf315e404b7ed3e5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7PedhX4VhkKNJwDMwAY5NKEJyhDSnQbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,78 @@
+{
+  "menu": {
+    "platillos": [
+      {
+        "nombre": "Pollo a la parrilla",
+        "descripcion": "Jugoso pollo cocinado a la parrilla y sazonado con hierbas frescas.",
+        "precio": 12.99,
+        "imagen": "https://cocina-casera.com/wp-content/uploads/2018/04/pollo-a-la-parrilla-23.jpg"
+      },
+      {
+        "nombre": "Spaghetti Carbonara",
+        "descripcion": "Pasta italiana al dente en una cremosa salsa de huevo, queso parmesano rallado, panceta y pimienta negra.",
+        "precio": 10.99,
+        "imagen": "https://cocina-casera.com/wp-content/uploads/2018/04/pollo-a-la-parrilla-23.jpg"
+      },
+      {
+        "nombre": "Sushi variado",
+        "descripcion": "Selección de sushi fresco que incluye nigiri, sashimi y rollos de sushi variados.",
+        "precio": 18.99,
+        "imagen": "https://cocina-casera.com/wp-content/uploads/2018/04/pollo-a-la-parrilla-23.jpg"
+      },
+      {
+        "nombre": "Filete de salmón al horno",
+        "descripcion": "Delicioso filete de salmón asado al horno, marinado en una mezcla de limón, aceite de oliva y especias.",
+        "precio": 16.99,
+        "imagen": "https://cocina-casera.com/wp-content/uploads/2018/04/pollo-a-la-parrilla-23.jpg"
+      },
+      {
+        "nombre": "Tacos de carne asada",
+        "descripcion": "Tortillas de maíz rellenas de suculenta carne de res asada, cebolla caramelizada, cilantro fresco y salsa de tomate casera.",
+        "precio": 11.99,
+        "imagen": "https://cocina-casera.com/wp-content/uploads/2018/04/pollo-a-la-parrilla-23.jpg"
+      },
+      {
+        "nombre": "Ensalada César",
+        "descripcion": "Mezcla fresca de lechuga romana, crutones de pan tostado, queso parmesano rallado y aderezo César cremoso.",
+        "precio": 8.99,
+        "imagen": "https://cocina-casera.com/wp-content/uploads/2018/04/pollo-a-la-parrilla-23.jpg"
+      },
+      {
+        "nombre": "Pizza Margherita",
+        "descripcion": "Pizza clásica italiana con una base de salsa de tomate, mozzarella fresca, albahaca y un chorrito de aceite de oliva.",
+        "precio": 14.99,
+        "imagen": "https://cocina-casera.com/wp-content/uploads/2018/04/pollo-a-la-parrilla-23.jpg"
+      },
+      {
+        "nombre": "Agua mineral",
+        "descripcion": "Agua natural y refrescante, perfecta para acompañar cualquier comida.",
+        "precio": 2.49,
+        "imagen": "https://cocina-casera.com/wp-content/uploads/2018/04/pollo-a-la-parrilla-23.jpg"
+      },
+      {
+        "nombre": "Refresco de cola",
+        "descripcion": "Refresco carbonatado con sabor a cola, ideal para disfrutar de un toque dulce y burbujeante.",
+        "precio": 1.99,
+        "imagen": "https://cocina-casera.com/wp-content/uploads/2018/04/pollo-a-la-parrilla-23.jpg"
+      },
+      {
+        "nombre": "Limonada casera",
+        "descripcion": "Refrescante bebida hecha con jugo de limón fresco, agua y azúcar, servida con hielo.",
+        "precio": 3.49,
+        "imagen": "https://cocina-casera.com/wp-content/uploads/2018/04/pollo-a-la-parrilla-23.jpg"
+      },
+      {
+        "nombre": "Té helado",
+        "descripcion": "Té negro o verde infusionado y enfriado, servido con limón y endulzado al gusto.",
+        "precio": 2.99,
+        "imagen": "https://cocina-casera.com/wp-content/uploads/2018/04/pollo-a-la-parrilla-23.jpg"
+      },
+      {
+        "nombre": "Café espresso",
+        "descripcion": "Café fuerte y concentrado hecho al momento con granos de café recién molidos, perfecto para un impulso de energía.",
+        "precio": 2.99,
+        "imagen": "https://cocina-casera.com/wp-content/uploads/2018/04/pollo-a-la-parrilla-23.jpg"
+      }
+    ]
+  }
+}

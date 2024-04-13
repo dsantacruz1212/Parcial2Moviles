@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+           android:title="menu"
+           android:id="@+id/menu"
+           android:icon="@drawable/rounded_fastfood_24"    />
+    <item
+        android:title="cart"
+        android:id="@+id/cart"
+        android:icon="@drawable/baseline_add_shopping_cart_24"    />
+    <item
+        android:title="historial"
+        android:id="@+id/historial"
+        android:icon="@drawable/baseline_date_range_24"    />
+
+</menu>

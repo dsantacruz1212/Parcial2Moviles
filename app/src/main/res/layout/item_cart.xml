@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    >
+
+    <!-- Nombre del platillo -->
+    <TextView
+        android:id="@+id/txtPlatilloNombre"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:text="Nombre del Platillo"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/txtPlatilloPrecio"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="$10"
+        android:gravity="center"
+        android:textSize="18sp" />
+
+    <!-- Botón Restar/Cantidad -->
+    <ImageButton
+        android:id="@+id/btnRestar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/rounded_button_background"
+        android:src="@drawable/round_chevron_left_24" />
+
+    <!-- Cantidad del platillo -->
+    <TextView
+        android:id="@+id/txtPlatilloCantidad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="20"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:gravity="center" />
+
+    <!-- Botón Sumar/Cantidad -->
+    <ImageButton
+        android:id="@+id/btnSumar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/rounded_button_background"
+        android:src="@drawable/baseline_chevron_right_24" />
+
+    <!-- Botón Eliminar Platillo -->
+    <ImageButton
+        android:id="@+id/btnEliminarPlatillo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:background="@null"
+        android:src="@drawable/baseline_delete_24" />
+</LinearLayout>
